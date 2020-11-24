@@ -1,2 +1,2 @@
 # AvocadoSmuggler.github.io
-This is Github Pages for high school student acceptance system. 
+This is Github Pages repository for high school student admission system.  
